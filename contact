@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Livastyle - Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="header-content">
+        <img src="images/logo.png" class="logo">
+        <div class="header-text">
+            <h1>Livastyle</h1>
+            <p>Contact Us</p>
+        </div>
+    </div>
+</header>
+
+<nav class="navbar">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+    <a href="faq.html">FAQ</a>
+    <a href="privacy.html">Privacy</a>
+</nav>
+
+<div class="container">
+    <h2>Contact Us</h2>
+
+    <form>
+        <input type="text" placeholder="Your Name" required><br><br>
+        <input type="email" placeholder="Your Email" required><br><br>
+        <textarea rows="5" placeholder="Your Message"></textarea><br><br>
+        <button type="submit">Send</button>
+    </form>
+
+    <h3>WhatsApp</h3>
+    <p><a href="https://wa.me/919999999999" target="_blank">Chat Now</a></p>
+
+    <h3>Instagram</h3>
+    <p><a href="https://instagram.com/livastyle" target="_blank">@livastyle</a></p>
+</div>
+
+<a class="whatsapp" href="https://wa.me/919999999999" target="_blank">WhatsApp</a>
+
+<footer class="footer">
+    <p>© 2026 Livastyle</p>
+</footer>
+
+</body>
+</html>

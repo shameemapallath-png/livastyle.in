@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Livastyle - Products</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="header-content">
+        <img src="images/logo.png" class="logo">
+        <div class="header-text">
+            <h1>Livastyle</h1>
+            <p>Our Products</p>
+        </div>
+    </div>
+</header>
+
+<nav class="navbar">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+    <a href="faq.html">FAQ</a>
+    <a href="privacy.html">Privacy</a>
+</nav>
+
+<div class="container">
+    <h2>All Products</h2>
+
+    <div class="products">
+
+        <div class="card">
+            <img src="images/bracelet.jpg">
+            <h3>Bracelet</h3>
+            <p>Price: ₹199</p>
+            <a class="btn buy" href="https://wa.me/919999999999" target="_blank">Buy Now</a>
+            <a class="btn cart" href="#">Add to Cart</a>
+        </div>
+
+        <div class="card">
+            <img src="images/ring.jpg">
+            <h3>Ring</h3>
+            <p>Price: ₹149</p>
+            <a class="btn buy" href="https://wa.me/919999999999" target="_blank">Buy Now</a>
+            <a class="btn cart" href="#">Add to Cart</a>
+        </div>
+
+        <div class="card">
+            <img src="images/chain.jpg">
+            <h3>Chain</h3>
+            <p>Price: ₹249</p>
+            <a class="btn buy" href="https://wa.me/919999999999" target="_blank">Buy Now</a>
+            <a class="btn cart" href="#">Add to Cart</a>
+        </div>
+
+    </div>
+</div>
+
+<a class="whatsapp" href="https://wa.me/919999999999" target="_blank">WhatsApp</a>
+
+<footer class="footer">
+    <p>© 2026 Livastyle</p>
+</footer>
+
+</body>
+</html>
